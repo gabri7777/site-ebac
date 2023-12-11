@@ -78,6 +78,21 @@ section p {
     height: 500px;
 }
 
+.imagem1 {
+    margin-right: 16px;
+    height: 300px;
+}
+
+.imagem2 {
+    margin-right: 16px;
+    height: 400px;
+}
+
+.imagem3 {
+    margin-right: 16px;
+    height: 600px;
+}
+
 .social img {
     width: 24px;
 }
@@ -134,4 +149,31 @@ footer{
     background-color: darkslateblue;
     color: aliceblue;
     padding: 16px 0;
+}
+
+#loja {
+    background-color: darkturquoise ;
+}
+
+#marvel {
+    background-color: red;
+}
+
+#DC {
+    background-color: rgb(63, 63, 238);
+}
+.container p, h2 {
+    color: aliceblue;
+}
+
+#mangá {
+    background-color: orange;
+}
+
+#contato .container h2 {
+    color:darkslateblue;
+}
+
+#contato .container p {
+    color: black;
 }
